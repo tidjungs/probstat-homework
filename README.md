@@ -8,3 +8,7 @@ node getPxLog.js
 ```
 babel-node interfaceBinomial.js
 ```
+- Poisson (fix value)
+```
+babel-node poisson.js
+```
