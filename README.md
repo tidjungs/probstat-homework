@@ -1,5 +1,9 @@
 #propstat-homework
 Usage
+- first
+```
+npm install
+```
 - get Pdf Cdf (fix value)
 ```
 node getPxLog.js
